@@ -7,12 +7,12 @@
     <ProjectGuid>{C9501D7A-0375-469C-88D1-E4C5650E9CCA}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Orbital_Mechanix_Suite</RootNamespace>
-    <AssemblyName>Orbital Mechanix Suite</AssemblyName>
+    <RootNamespace>Kerbal_Mechanix_Suite</RootNamespace>
+    <AssemblyName>Kerbal Mechanix Suite</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <IsWebBootstrapper>false</IsWebBootstrapper>
-    <PublishUrl>C:\Users\Evan Kaiser\Documents\GitHub\Orbital-Mechanix-Suite\</PublishUrl>
+    <PublishUrl>C:\Users\Evan Kaiser\Documents\GitHub\Kerbal-Mechanix-Suite\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
     <UpdateEnabled>false</UpdateEnabled>
@@ -94,6 +94,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
