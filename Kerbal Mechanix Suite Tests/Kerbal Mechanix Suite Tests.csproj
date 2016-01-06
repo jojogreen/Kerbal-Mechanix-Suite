@@ -54,7 +54,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Orbital Mechanix Suite\Kerbal Mecahnix Suite.csproj">
+    <ProjectReference Include="..\Kerbal Mechanix Suite\Kerbal Mecahnix Suite.csproj">
       <Project>{c9501d7a-0375-469c-88d1-e4c5650e9cca}</Project>
       <Name>Kerbal Mecahnix Suite</Name>
     </ProjectReference>

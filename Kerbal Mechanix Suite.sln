@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kerbal Mecahnix Suite", "Orbital Mechanix Suite\Kerbal Mecahnix Suite.csproj", "{C9501D7A-0375-469C-88D1-E4C5650E9CCA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kerbal Mecahnix Suite", "Kerbal Mechanix Suite\Kerbal Mecahnix Suite.csproj", "{C9501D7A-0375-469C-88D1-E4C5650E9CCA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kerbal Mechanix Suite Tests", "Orbital Mechanix Suite Tests\Kerbal Mechanix Suite Tests.csproj", "{FBA3E194-FB96-4F8D-8D39-56D3D60B4865}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kerbal Mechanix Suite Tests", "Kerbal Mechanix Suite Tests\Kerbal Mechanix Suite Tests.csproj", "{FBA3E194-FB96-4F8D-8D39-56D3D60B4865}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
